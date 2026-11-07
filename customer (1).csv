@@ -1,0 +1,6 @@
+customer_id,age,monthly_spend,support_tickets,tenure_months,churned
+1001,25,20.5,5,3,1
+1002,45,80.0,0,28,0
+1003,35,40.2,3,11,1
+1004,50,95.5,0,36,0
+1005,23,15.0,6,2,1
